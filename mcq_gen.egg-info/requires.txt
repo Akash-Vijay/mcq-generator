@@ -3,5 +3,3 @@ langchain-google-genai
 streamlit
 python-dotenv
 pyPDF2
-
--e .
