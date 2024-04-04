@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main goal of natural language processing (NLP)?,"a: To enable computers to generate text and speech | b: To recognize, understand, and generate text and speech | c: To translate human language into computer code | d: To create virtual assistants",b
+Which of the following is NOT a challenge in teaching NLP to computers?,a: Homonyms | b: Sarcasm | c: Regular expressions | d: Variations in sentence structure,c
+How do NLP models combine computational linguistics with other techniques?,a: Through rule-based modeling | b: Through statistical and machine learning models | c: Through deep neural networks | d: Through a combination of all of the above,d
+What are some of the irregularities in human language that make NLP challenging?,a: Idioms and metaphors | b: Grammar and usage exceptions | c: Homophones and homonyms | d: All of the above,d
+What is a key factor in developing useful NLP applications?,a: Accuracy in recognizing and understanding human language | b: Speed and efficiency in processing data | c: User-friendly interfaces | d: Both a and b,a
