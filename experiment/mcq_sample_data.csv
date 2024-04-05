@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main component of NLP that enables computers to recognize and understand text and speech?,"a: Computational linguistics | b: Statistical models | c: Machine learning models | d: Combinations of a, b, and c",d
+Which of the following challenges makes it difficult to develop accurate NLP applications?,a: Ambiguities in human language | b: Lack of training data | c: Computational limitations | d: All of the above,a
+Which of the following is NOT an example of an irregularity found in human language?,a: Homonyms | b: Sarcasm | c: Boolean algebra | d: Grammar exceptions,c
+What is the significance of teaching NLP applications to recognize human language irregularities?,a: To enhance their accuracy and usefulness | b: To reduce the need for human supervision | c: To make them more efficient | d: None of the above,a
+Which of the following is the primary focus of computational linguistics in NLP?,a: Rule-based modeling of human language | b: Statistical analysis of text | c: Machine learning algorithms | d: Speech recognition technology,a
