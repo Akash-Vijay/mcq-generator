@@ -13,7 +13,7 @@ with open("C:\Development\mcq-generator\Response.json", "r") as f:
     response_json = json.load(f)
 
 # Title of the Web App
-st.title("MCQ Generator using Generative Models")
+st.title("MCQ Generator using Gen AI 🤖")
 
 # Creating a Form
 with st.form("user_inputs"):
