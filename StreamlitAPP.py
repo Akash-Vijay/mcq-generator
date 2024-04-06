@@ -19,11 +19,11 @@ st.title("MCQ Generator using Gen AI 🤖")
 with st.form("user_inputs"):
 
     # File Uploader
-    uploaded_file = st.file_uploader("Choose a file (.txt or .pdf): ")
+    uploaded_file = st.file_uploader("Choose a file containing a description of your topic (.txt or .pdf): ")
 
     # Input Fields
     question_count = st.number_input("Number of Questions", min_value=3, value=50)
-    subject = st.text_input("Insert Subject")
+    subject = st.text_input("Insert Subject Title")
     tone = st.text_input("Complexity Level: ", placeholder="Simple")
     button = st.form_submit_button("Generate MCQs")
 
